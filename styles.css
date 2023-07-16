@@ -104,3 +104,12 @@ img{
 .close:hover{
     text-decoration: none;
 }
+
+nav ul li{
+    text-align: center;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+}
