@@ -108,9 +108,14 @@ img{
 nav ul li{
     text-align: center;
     text-decoration: none;
-    display: block;
+    display: contents;
 }
 
-a:hover{
+ul{
+    padding-top: 15px;
+    padding-left: 780px;
+}
+
+li a:hover{
     text-decoration: underline;
 }
